@@ -1,0 +1,7 @@
+,,Recency,Frequency,log1p Monetary
+Pearson,Recency,1.0,-0.346,0.152
+Pearson,Frequency,-0.346,1.0,0.013
+Pearson,log1p Monetary,0.152,0.013,1.0
+Spearman,Recency,1.0,-0.196,0.137
+Spearman,Frequency,-0.196,1.0,-0.048
+Spearman,log1p Monetary,0.137,-0.048,1.0
